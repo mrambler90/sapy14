@@ -1,0 +1,6 @@
+it.uniroma1.sapy
+it.uniroma1.sapy.lexer
+it.uniroma1.sapy.parsing
+it.uniroma1.sapy.runtime
+it.uniroma1.sapy.runtime.espressioni
+it.uniroma1.sapy.runtime.istruzioni
