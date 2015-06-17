@@ -1,7 +1,7 @@
 # Sapy14 2.0
 ##Java Implementation of a BASIC-like language interpreter.
 
-Actually, this is a legacy repo: it contains the whole working code, but the comments and the specification documents must be translated in English first (I'll ASAP do it).
+**Actually, this is a legacy repo: it contains the whole working code, but the comments and the specification documents must be translated in English first (I'll ASAP do it).**
 
 This is my implementation of a BASIC-like programming language called Sapy, developed during a bachelor-degree programming course. The specifications were almost completely developed, and I will soon complete the work.
 
